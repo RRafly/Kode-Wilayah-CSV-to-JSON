@@ -1,5 +1,5 @@
 # Kode-Wilayah-CSV-to-JSON
-A simple converter to transform **kode wilayah** CSV into hierarchical JSON format based on the [@kodewilayah/permendagri-72-2019](https://github.com/kodewilayah/permendagri-72-2019)  `dist/base.csv` dataset. 
+A converter to transform **kode wilayah** CSV into hierarchical JSON format based on the [@kodewilayah/permendagri-72-2019](https://github.com/kodewilayah/permendagri-72-2019)  `dist/base.csv` dataset. 
 
 ## Features
 - Converts raw region data **provinsi** (province), **kota** (city/district), **kecamatan** (sub-district), **desa** (village) from a CSV file into structured JSON.
